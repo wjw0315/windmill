@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.441.3](https://github.com/windmill-labs/windmill/compare/v1.441.2...v1.441.3) (2024-12-30)
+
+
+### Bug Fixes
+
+* handle `'flownode'` job kind where missing ([#4990](https://github.com/windmill-labs/windmill/issues/4990)) ([eeece84](https://github.com/windmill-labs/windmill/commit/eeece84a4b2f09cf50f7a04fac71912953f6e7f1))
+
 ## [1.441.2](https://github.com/windmill-labs/windmill/compare/v1.441.1...v1.441.2) (2024-12-27)
 
 
